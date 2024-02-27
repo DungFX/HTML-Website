@@ -1,0 +1,868 @@
+/**
+ * @name Donators
+ * @author Nyria#3863
+ * @description A new look to discord
+ * @invite rtBQX5D3bD
+ * @version 2.3.0
+*/
+.avatar__6337f:has(img[src*="193188089756123136"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="596812194906374167"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="1133689246784438322"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="269939624401436672"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="272440514400354305"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="409639495030538250"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="303880582331629569"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="562386647828791311"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="442661470770167838"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="394804652064899072"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="148883925270396929"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="233787027517210624"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="751092600890458203"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="289782983357890571"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="478881945020006402"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="118830296350064641"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="421890156686213120"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="285902386701271050"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="429013973501870100"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="17274395410169856"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="717509908479868999"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="516246121002303489"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="705306248538488947"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="522953162748067840"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="936723624180727888"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="444254890563338241"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="188323207793606656"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="833806840257052753"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="349133614849458177"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="486463991586095104"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="471112338099929100"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="226408609410449409"]) ~ .content_a6999d .username__11d8c::after,
+.avatar__6337f:has(img[src*="333662373967560715"]) ~ .content_a6999d .username__11d8c::after {
+  content: "";
+  position: absolute;
+  width: 15px;
+  height: 14px;
+  bottom: 5px;
+  left: 0;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") no-repeat;
+  background-size: 100%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+
+.avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="409639495030538250"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="303880582331629569"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="562386647828791311"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="442661470770167838"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="394804652064899072"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="148883925270396929"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="233787027517210624"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="751092600890458203"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="289782983357890571"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="478881945020006402"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="118830296350064641"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="421890156686213120"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="285902386701271050"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="429013973501870100"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="17274395410169856"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="717509908479868999"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="516246121002303489"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="705306248538488947"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="522953162748067840"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="936723624180727888"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="444254890563338241"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="188323207793606656"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="833806840257052753"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="349133614849458177"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="486463991586095104"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="471112338099929100"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="226408609410449409"]) ~ div.profileBadges__7a7cb,
+.avatarWrapper_f77579:has(img[src*="333662373967560715"]) ~ div.profileBadges__7a7cb {
+  padding-right: 40px;
+}
+.avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="409639495030538250"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="303880582331629569"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="562386647828791311"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="442661470770167838"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="394804652064899072"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="148883925270396929"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="233787027517210624"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="751092600890458203"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="289782983357890571"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="478881945020006402"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="118830296350064641"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="421890156686213120"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="285902386701271050"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="429013973501870100"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="17274395410169856"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="717509908479868999"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="516246121002303489"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="705306248538488947"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="522953162748067840"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="936723624180727888"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="444254890563338241"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="188323207793606656"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="833806840257052753"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="349133614849458177"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="486463991586095104"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="471112338099929100"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="226408609410449409"]) ~ div.profileBadges__7a7cb > :last-child,
+.avatarWrapper_f77579:has(img[src*="333662373967560715"]) ~ div.profileBadges__7a7cb > :last-child {
+  position: relative;
+}
+.avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="409639495030538250"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="303880582331629569"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="562386647828791311"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="442661470770167838"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="394804652064899072"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="148883925270396929"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="233787027517210624"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="751092600890458203"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="289782983357890571"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="478881945020006402"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="118830296350064641"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="421890156686213120"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="285902386701271050"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="429013973501870100"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="17274395410169856"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="717509908479868999"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="516246121002303489"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="705306248538488947"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="522953162748067840"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="936723624180727888"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="444254890563338241"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="188323207793606656"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="833806840257052753"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="349133614849458177"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="486463991586095104"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="471112338099929100"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="226408609410449409"]) ~ div.profileBadges__7a7cb > :last-child::after,
+.avatarWrapper_f77579:has(img[src*="333662373967560715"]) ~ div.profileBadges__7a7cb > :last-child::after {
+  content: "";
+  position: absolute;
+  width: 22px;
+  height: 20px;
+  bottom: 0px;
+  right: -30px;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") no-repeat;
+  background-size: 100%;
+  border-radius: 0 5px 0 0;
+}
+.avatarWrapper_f77579:has(img[src*="193188089756123136"]) .avatarWrapper_f77579:has(img[src*="596812194906374167"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="281376608038813696"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="269939624401436672"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="272440514400354305"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="409639495030538250"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="303880582331629569"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="562386647828791311"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="442661470770167838"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="394804652064899072"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="148883925270396929"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="233787027517210624"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="751092600890458203"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="289782983357890571"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="478881945020006402"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="118830296350064641"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="421890156686213120"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="285902386701271050"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="429013973501870100"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="17274395410169856"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="717509908479868999"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="516246121002303489"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="705306248538488947"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="522953162748067840"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="936723624180727888"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="444254890563338241"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="188323207793606656"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="833806840257052753"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="349133614849458177"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="486463991586095104"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="471112338099929100"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="226408609410449409"]) ~ div.profileBadges__7a7cb > :last-child:hover::before,
+.avatarWrapper_f77579:has(img[src*="333662373967560715"]) ~ div.profileBadges__7a7cb > :last-child:hover::before {
+  content: "Nyria's donator";
+  position: absolute;
+  padding: 8px 8px 8px 36px;
+  bottom: -40px;
+  right: -80px;
+  text-wrap: nowrap;
+  background-image: url("https://cdn.7tv.app/emote/60ae958e229664e8667aea38/4x.webp");
+  background-position: 8px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-color: #605c5d;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="269939624401436672"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="272440514400354305"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="409639495030538250"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="303880582331629569"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="562386647828791311"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="442661470770167838"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="394804652064899072"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="148883925270396929"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="233787027517210624"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="751092600890458203"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="289782983357890571"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="478881945020006402"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="118830296350064641"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="421890156686213120"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="285902386701271050"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="429013973501870100"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="17274395410169856"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="717509908479868999"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="516246121002303489"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="705306248538488947"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="522953162748067840"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="936723624180727888"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="444254890563338241"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="188323207793606656"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="833806840257052753"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="349133614849458177"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="486463991586095104"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="226408609410449409"]) .headerTop__6628b > div.badgeList_c193e3,
+.header__7da4f:has(img[src*="333662373967560715"]) .headerTop__6628b > div.badgeList_c193e3 {
+  padding-right: 40px;
+}
+.header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="269939624401436672"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="272440514400354305"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="409639495030538250"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="303880582331629569"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="562386647828791311"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="442661470770167838"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="394804652064899072"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="148883925270396929"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="233787027517210624"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="751092600890458203"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="289782983357890571"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="478881945020006402"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="118830296350064641"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="421890156686213120"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="285902386701271050"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="429013973501870100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="17274395410169856"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="717509908479868999"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="516246121002303489"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="705306248538488947"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="522953162748067840"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="936723624180727888"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="444254890563338241"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="188323207793606656"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="833806840257052753"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="349133614849458177"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="486463991586095104"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="226408609410449409"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child,
+.header__7da4f:has(img[src*="333662373967560715"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child {
+  position: relative;
+}
+.header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="269939624401436672"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="272440514400354305"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="409639495030538250"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="303880582331629569"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="562386647828791311"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="442661470770167838"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="394804652064899072"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="148883925270396929"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="233787027517210624"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="751092600890458203"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="289782983357890571"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="478881945020006402"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="118830296350064641"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="421890156686213120"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="285902386701271050"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="429013973501870100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="17274395410169856"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="717509908479868999"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="516246121002303489"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="705306248538488947"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="522953162748067840"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="936723624180727888"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="444254890563338241"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="188323207793606656"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="833806840257052753"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="349133614849458177"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="486463991586095104"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="226408609410449409"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after,
+.header__7da4f:has(img[src*="333662373967560715"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child::after {
+  content: "";
+  position: absolute;
+  width: 22px;
+  height: 20px;
+  bottom: 0px;
+  right: -30px;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") no-repeat;
+  background-size: 100%;
+  border-radius: 0 5px 0 0;
+}
+.header__7da4f:has(img[src*="193188089756123136"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="596812194906374167"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="281376608038813696"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="269939624401436672"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="272440514400354305"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="409639495030538250"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="303880582331629569"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="562386647828791311"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="442661470770167838"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="394804652064899072"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="148883925270396929"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="233787027517210624"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="751092600890458203"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="289782983357890571"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="478881945020006402"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="118830296350064641"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="421890156686213120"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="285902386701271050"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="429013973501870100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="17274395410169856"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="717509908479868999"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="516246121002303489"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="705306248538488947"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="522953162748067840"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="936723624180727888"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="444254890563338241"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="188323207793606656"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="833806840257052753"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="349133614849458177"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="486463991586095104"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="471112338099929100"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="226408609410449409"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before,
+.header__7da4f:has(img[src*="333662373967560715"]) .headerTop__6628b > div.badgeList_c193e3 > :last-child:hover::before {
+  content: "Nyria's donator";
+  position: absolute;
+  padding: 8px 8px 8px 36px;
+  bottom: -40px;
+  right: -80px;
+  text-wrap: nowrap;
+  background-image: url("https://cdn.7tv.app/emote/60ae958e229664e8667aea38/4x.webp");
+  background-position: 8px;
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-color: #605c5d;
+  color: #fff;
+  border-radius: 8px;
+}
+
+.avatar__08316[src*="193188089756123136"] + h3 .username_d30d99::after,
+.avatar__08316[src*="596812194906374167"] + h3 .username_d30d99::after,
+.avatar__08316[src*="281376608038813696"] + h3 .username_d30d99::after,
+.avatar__08316[src*="269939624401436672"] + h3 .username_d30d99::after,
+.avatar__08316[src*="272440514400354305"] + h3 .username_d30d99::after,
+.avatar__08316[src*="409639495030538250"] + h3 .username_d30d99::after,
+.avatar__08316[src*="303880582331629569"] + h3 .username_d30d99::after,
+.avatar__08316[src*="562386647828791311"] + h3 .username_d30d99::after,
+.avatar__08316[src*="442661470770167838"] + h3 .username_d30d99::after,
+.avatar__08316[src*="394804652064899072"] + h3 .username_d30d99::after,
+.avatar__08316[src*="148883925270396929"] + h3 .username_d30d99::after,
+.avatar__08316[src*="233787027517210624"] + h3 .username_d30d99::after,
+.avatar__08316[src*="751092600890458203"] + h3 .username_d30d99::after,
+.avatar__08316[src*="289782983357890571"] + h3 .username_d30d99::after,
+.avatar__08316[src*="478881945020006402"] + h3 .username_d30d99::after,
+.avatar__08316[src*="118830296350064641"] + h3 .username_d30d99::after,
+.avatar__08316[src*="421890156686213120"] + h3 .username_d30d99::after,
+.avatar__08316[src*="285902386701271050"] + h3 .username_d30d99::after,
+.avatar__08316[src*="429013973501870100"] + h3 .username_d30d99::after,
+.avatar__08316[src*="17274395410169856"] + h3 .username_d30d99::after,
+.avatar__08316[src*="516246121002303489"] + h3 .username_d30d99::after,
+.avatar__08316[src*="705306248538488947"] + h3 .username_d30d99::after,
+.avatar__08316[src*="522953162748067840"] + h3 .username_d30d99::after,
+.avatar__08316[src*="936723624180727888"] + h3 .username_d30d99::after,
+.avatar__08316[src*="444254890563338241"] + h3 .username_d30d99::after,
+.avatar__08316[src*="188323207793606656"] + h3 .username_d30d99::after,
+.avatar__08316[src*="833806840257052753"] + h3 .username_d30d99::after,
+.avatar__08316[src*="349133614849458177"] + h3 .username_d30d99::after,
+.avatar__08316[src*="486463991586095104"] + h3 .username_d30d99::after,
+.avatar__08316[src*="471112338099929100"] + h3 .username_d30d99::after,
+.avatar__08316[src*="226408609410449409"] + h3 .username_d30d99::after,
+.avatar__08316[src*="333662373967560715"] + h3 .username_d30d99::after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 14px;
+  bottom: 2px;
+  right: -26px;
+  background: url("https://cdn.discordapp.com/emojis/813060332704366642.png?v=1") no-repeat;
+  background-size: 100%;
+  border-radius: 0 5px 0 0;
+  pointer-events: none;
+}
+.avatar__08316[src*="193188089756123136"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="596812194906374167"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="281376608038813696"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="269939624401436672"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="272440514400354305"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="409639495030538250"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="303880582331629569"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="562386647828791311"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="442661470770167838"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="394804652064899072"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="148883925270396929"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="233787027517210624"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="751092600890458203"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="289782983357890571"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="478881945020006402"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="118830296350064641"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="421890156686213120"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="285902386701271050"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="429013973501870100"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="17274395410169856"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="516246121002303489"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="705306248538488947"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="522953162748067840"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="936723624180727888"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="444254890563338241"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="188323207793606656"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="833806840257052753"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="349133614849458177"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="486463991586095104"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="471112338099929100"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="226408609410449409"] + h3 .hasBadges_aef1e9 .username_d30d99::after,
+.avatar__08316[src*="333662373967560715"] + h3 .hasBadges_aef1e9 .username_d30d99::after {
+  right: -50px;
+}
+.avatar__08316[src*="193188089756123136"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="596812194906374167"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="281376608038813696"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="269939624401436672"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="272440514400354305"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="409639495030538250"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="303880582331629569"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="562386647828791311"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="442661470770167838"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="394804652064899072"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="148883925270396929"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="233787027517210624"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="751092600890458203"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="289782983357890571"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="478881945020006402"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="118830296350064641"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="421890156686213120"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="285902386701271050"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="429013973501870100"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="17274395410169856"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="516246121002303489"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="705306248538488947"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="522953162748067840"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="936723624180727888"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="444254890563338241"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="188323207793606656"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="833806840257052753"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="349133614849458177"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="486463991586095104"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="471112338099929100"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="226408609410449409"] + h3 .timestamp_cdbd93,
+.avatar__08316[src*="333662373967560715"] + h3 .timestamp_cdbd93 {
+  margin-left: 30px;
+}
+
+.avatar__08316[src*="193188089756123136"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="193188089756123136"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="193188089756123136"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="193188089756123136"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #000000 0%, #ffffff 50%, #000000 100%);
+}
+
+.avatar__08316[src*="281376608038813696"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="281376608038813696"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="281376608038813696"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="281376608038813696"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #1a8ce9 40%, #0b304e 80%, #1a8ce9 100%);
+}
+
+.avatar__08316[src*="596812194906374167"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="596812194906374167"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="596812194906374167"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="596812194906374167"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(97, 0, 25) 0%, rgb(255, 0, 65) 50%, rgb(97, 0, 25) 100%);
+}
+
+.avatar__08316[src*="269939624401436672"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="269939624401436672"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="269939624401436672"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="269939624401436672"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #360167, #6b0772, #af1281, #cf268a, #af1281, #6b0772, #360167);
+}
+
+.avatar__08316[src*="272440514400354305"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="272440514400354305"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="272440514400354305"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="272440514400354305"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #fdc7c5 0%, #fec4df 10%, #efc8f3 20%, #d2d0fc 30%, #b0daf6 40%, #9ae1e3 50%, #9fe2c9 60%, #b8dfb2 70%, #d6d8a7 80%, #efcfaf 90%, #fdc7c5 100%);
+}
+
+.avatar__08316[src*="409639495030538250"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="409639495030538250"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="409639495030538250"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="409639495030538250"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div,
+.avatar__08316[src*="303880582331629569"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="303880582331629569"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="303880582331629569"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="303880582331629569"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(-60deg, #5bcefa 20%, #f5a9b8 20%, 40%, #ffffff 40%, 60%, #f5a9b8 60%, 80%, #5bcefa 80%);
+}
+
+.avatar__08316[src*="562386647828791311"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="562386647828791311"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="562386647828791311"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="562386647828791311"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(56deg, rgb(223, 193, 63) 0%, rgb(246, 57, 57) 33%, rgb(62, 9, 157) 66%, rgb(223, 193, 63) 99%);
+}
+
+.avatar__08316[src*="442661470770167838"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="442661470770167838"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="442661470770167838"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="442661470770167838"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(252, 178, 215) 0%, rgb(0, 0, 0) 50%, rgb(252, 178, 215) 100%);
+}
+
+.avatar__08316[src*="148883925270396929"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="148883925270396929"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="148883925270396929"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="148883925270396929"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(0, 0, 255) 25%, rgb(0, 0, 0) 50%, rgb(123, 0, 255) 75%, rgb(0, 0, 0) 100%);
+}
+
+.avatar__08316[src*="394804652064899072"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="394804652064899072"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="394804652064899072"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="394804652064899072"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: radial-gradient(circle, rgb(0, 203, 255) 0%, rgb(76, 196, 114) 12%, rgb(183, 171, 99) 30%, rgb(214, 165, 18) 51%, rgb(206, 32, 32) 70%, rgb(132, 7, 7) 100%);
+}
+
+.avatar__08316[src*="233787027517210624"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="233787027517210624"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="233787027517210624"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="233787027517210624"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(242, 221, 136) 20%, rgb(0, 0, 0) 50%, rgb(242, 221, 136) 80%);
+}
+
+.avatar__08316[src*="751092600890458203"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="751092600890458203"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="751092600890458203"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="751092600890458203"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 10s linear infinite;
+  background-image: linear-gradient(90deg, #d65e94 0%, #2ab5ea 50%, #d65e94 100%);
+}
+
+.avatar__08316[src*="289782983357890571"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="289782983357890571"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="289782983357890571"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="289782983357890571"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(25, 25, 27) 0%, rgb(222, 175, 157) 33%, rgb(224, 231, 232) 66%, rgb(25, 25, 27) 100%);
+}
+
+.avatar__08316[src*="478881945020006402"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="478881945020006402"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="478881945020006402"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="478881945020006402"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(25, 25, 27) 0%, rgb(222, 175, 157) 33%, rgb(235, 111, 146) 66%, rgb(25, 25, 27) 100%);
+}
+
+.avatar__08316[src*="118830296350064641"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="118830296350064641"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="118830296350064641"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="118830296350064641"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(118, 240, 255) 0%, rgb(251, 213, 255) 30%, rgb(255, 255, 255) 50%, rgb(251, 213, 255) 70%, rgb(118, 240, 255) 100%);
+}
+
+.avatar__08316[src*="421890156686213120"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="421890156686213120"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="421890156686213120"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="421890156686213120"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 10s linear infinite;
+  background-image: linear-gradient(90deg, rgb(225, 116, 139) 0%, rgb(234, 161, 166) 20%, rgb(230, 220, 237) 40%, rgb(227, 238, 248) 60%, rgb(232, 248, 235) 80%, rgb(225, 116, 139) 100%);
+}
+
+.avatar__08316[src*="285902386701271050"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="285902386701271050"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="285902386701271050"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="285902386701271050"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(140deg, #95efeb 0%, #95beef 10%, #a095ef 20%, #d595ef 30%, #ef95d5 40%, #ef95a0 50%, #efbf95 60%, #eaef95 70%, #b6ef95 80%, #95efaa 90%, #95efeb 100%);
+}
+
+.avatar__08316[src*="429013973501870100"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="429013973501870100"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="429013973501870100"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="429013973501870100"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(-60deg, rgb(91, 206, 250) 20%, rgb(245, 169, 184) 20%, 40%, rgb(255, 255, 255) 40%, 60%, rgb(245, 169, 184) 60%, 80%, rgb(91, 206, 250) 80%);
+}
+
+.avatar__08316[src*="317274395410169856"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="317274395410169856"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="317274395410169856"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="317274395410169856"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(90deg, #fc00ff 0%, #00dbde 100%);
+}
+
+.avatar__08316[src*="516246121002303489"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="516246121002303489"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="516246121002303489"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="516246121002303489"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(90deg, #12c2e9 0%, #c471ed 50%, #f64f59 100%);
+}
+
+.avatar__08316[src*="705306248538488947"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="705306248538488947"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="705306248538488947"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="705306248538488947"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(45deg, orange, yellow, green, blue, indigo, violet, red);
+}
+
+.avatar__08316[src*="717509908479868999"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="717509908479868999"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="717509908479868999"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="717509908479868999"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: radial-gradient(circle, rgb(1, 144, 249) 0%, rgb(253, 224, 45) 100%);
+}
+
+.avatar__08316[src*="522953162748067840"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="522953162748067840"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="522953162748067840"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="522953162748067840"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(0, 0, 0) 6%, rgba(17, 91, 15, 0.9912280702) 48%, rgb(17, 176, 8) 83%);
+}
+
+.avatar__08316[src*="936723624180727888"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="936723624180727888"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="936723624180727888"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="936723624180727888"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(55, 177, 218) 0%, rgb(146, 111, 210) 32%, rgb(181, 86, 207) 51%, rgb(203, 152, 127) 80%, rgb(204, 221, 59) 100%);
+}
+
+.avatar__08316[src*="444254890563338241"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="444254890563338241"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="444254890563338241"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="444254890563338241"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(93, 164, 204) 0%, rgb(132, 208, 142) 19%, rgb(218, 139, 163) 40%, rgb(222, 159, 117) 59%, rgb(219, 88, 88) 79%, rgb(209, 154, 228) 100%);
+}
+
+.avatar__08316[src*="188323207793606656"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="188323207793606656"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="188323207793606656"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="188323207793606656"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine-reversed 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(216, 44, 1) 0%, rgb(241, 117, 44) 15%, rgb(255, 152, 91) 30%, rgb(255, 255, 255) 45%, rgb(209, 98, 163) 60%, rgb(183, 85, 145) 75%, rgb(166, 2, 96) 90%);
+}
+
+.avatar__08316[src*="833806840257052753"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="833806840257052753"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="833806840257052753"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="833806840257052753"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(61, 122, 234) 35%, rgb(81, 164, 165) 100%);
+}
+
+.avatar__08316[src*="486463991586095104"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="486463991586095104"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="486463991586095104"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="486463991586095104"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: linear-gradient(90deg, rgb(182, 100, 255) 0%, rgb(170, 255, 203) 100%);
+}
+
+.avatar__08316[src*="471112338099929100"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="471112338099929100"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="471112338099929100"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="471112338099929100"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: linear-gradient(90deg, #6dd5ff 0%, #6daaff 33%, #2e6bc1 66%, #6dd5ff 100%);
+}
+
+.avatar__08316[src*="226408609410449409"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="226408609410449409"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="226408609410449409"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="226408609410449409"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: linear-gradient(270deg, rgb(121, 0, 168) 33%, rgb(1, 51, 148) 66%, rgb(121, 0, 168) 100%);
+}
+
+iAmYisuS .avatar__08316[src*="333662373967560715"] ~ h3 .username_d30d99,
+.avatar__6337f:has(.avatar__991e2[src*="333662373967560715"]) + .content_a6999d .username_d272d6,
+.avatarWrapper_f77579:has(.avatar__991e2[src*="333662373967560715"]) ~ div.overlayBackground__86b78 .userText__3e8b7 > h1,
+.topSection_dfb73b:has(.avatar__991e2[src*="333662373967560715"]) ~ div.overlayBackground__86b78 .container_b6b15b > div:not(.pronouns_be950a) > div {
+  color: transparent !important;
+  font-weight: bold;
+  background-size: 300%;
+  -webkit-background-clip: text;
+  animation: shine 5s linear infinite;
+  background-image: radial-gradient(circle, rgb(63, 94, 251) 0%, rgb(252, 70, 70) 50%, rgb(63, 94, 251) 100%);
+}
+
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+}
+@keyframes shine-reversed {
+  to {
+    background-position: -300% center;
+  }
+}
